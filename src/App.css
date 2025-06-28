@@ -32,3 +32,13 @@ button {
   color: #61dafb;
 }
 
+.owl-counter-container { /* Container for the string containing the owl count */
+  position : absolute ;
+  margin-right: 70%;
+  padding-top : 12%;
+  font-size: 35px
+}
+
+.owl-count {
+  color: #facc15; /* Yellow */
+}
